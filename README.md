@@ -1,6 +1,7 @@
 ### 
 Olá! 👋
 Sou Samuel Roberto.
+###
 Estou estudando programação em algumas áreas como Análise de Dados e Estátistica em R, Python, C.
 Sei criar sites usando HTML5 e CSS3 e JS.
 <!--
