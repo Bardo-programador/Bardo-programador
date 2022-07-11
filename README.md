@@ -1,6 +1,8 @@
 ### 
 Olá! 👋
-
+Sou Samuel Roberto.
+Estou estudando programação em algumas áreas como Análise de Dados e Estátistica em R, Python, C.
+Sei criar sites usando HTML5 e CSS3 e JS.
 <!--
 **Bardo-programador/Bardo-programador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
