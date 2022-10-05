@@ -2,8 +2,9 @@
 Olá! 👋
 Sou Samuel Roberto.
 ###
-Estou estudando programação em algumas áreas como Análise de Dados e Estátistica em R, Python, C.
-Sei criar sites usando HTML5 e CSS3 e JS.
+Estudo programação desde 2019, fiz um curso técnico na Escola Técnica Estadual Luiz Alves Lacerda(ETE LAL). Atualmente, faço  graduação em Análise e Desenvolvimento de sistemas no IFPE de Recife. Ainda não possuo experiência trabalhista.
+
+Tenho conhecimento em HTML, CSS, GitHub, R incluindo bibliotecas: DT, Tidyverse, Flexdashboard, ggplot, dplyr, esquisse. Estou estudando Python e algumas de suas bibliotecas Panda, Numpy, etc.
 <!--
 **Bardo-programador/Bardo-programador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
