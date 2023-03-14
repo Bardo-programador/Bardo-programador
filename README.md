@@ -1,10 +1,41 @@
-### 
-Olá! 👋
-Sou Samuel Roberto.
-###
-Estudo programação desde 2019, fiz um curso técnico na Escola Técnica Estadual Luiz Alves Lacerda(ETE LAL). Atualmente, faço  graduação em Análise e Desenvolvimento de sistemas no IFPE de Recife. Ainda não possuo experiência trabalhista.
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-Tenho conhecimento em HTML, CSS, GitHub, R incluindo bibliotecas: DT, Tidyverse, Flexdashboard, ggplot, dplyr, esquisse. Estou estudando Python e algumas de suas bibliotecas Panda, Numpy, etc.
+# Olá! 👋 Sou Samuel Roberto.
+
+<i class="devicon-html5-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width = 40 heigth = 40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width = 40 heigth = 40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width = 40 heigth = 40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 40 heigth = 40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width = 40 heigth = 40 />
+
+
+
+
+
+Sou técnico em Desenvolvimento de Sistemas, e estou cursando tecnologo em análise e desenvolvimento de sistemas na IFPE campus Recife
+
+Tenho conhecimento em:
+
+```
+HTML e CSS
+RStudio incluindo bibliotecas: DT, Tidyverse, Flexdashboard, ggplot, dplyr, esquisse.
+Python, sendo esta a que eu mais domino
+Java
+```
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bardo-programador&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=Samuel Roberto de Carvalho Bezerra github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bardo-programador&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+
+
+
+
+
+
+
 <!--
 **Bardo-programador/Bardo-programador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
