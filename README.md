@@ -3,7 +3,7 @@
 # Olá! 👋 Sou Samuel Roberto.
 
 
-Sou técnico em Desenvolvimento de Sistemas, e estou cursando tecnologo em análise e desenvolvimento de sistemas na IFPE campus Recife
+Sou técnico em Desenvolvimento de Sistemas, e estou me graduando em análise e desenvolvimento de sistemas na IFPE campus Recife
 
 
 <div align="center">  
