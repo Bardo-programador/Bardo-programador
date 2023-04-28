@@ -42,7 +42,7 @@ Sou técnico em Desenvolvimento de Sistemas, e estou me graduando em análise e 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 ## Estudando
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Plotly](https://www.google.com/imgres?imgurl=https%3A%2F%2Faeiljuispo.cloudimg.io%2Fv7%2Fhttps%3A%2F%2Fs3.amazonaws.com%2Fmoonup%2Fproduction%2Fuploads%2F1611174457784-5fa9ff3ea13e063b8b2b60cb.png%3Fw%3D200%26h%3D200%26f%3Dface&tbnid=CWAxyKuTJ721hM&vet=12ahUKEwifiODc0sz-AhVXG7kGHdVHAEYQMygHegUIARC7AQ..i&imgrefurl=https%3A%2F%2Fhuggingface.co%2FPlotly&docid=IEwSTGq5PlNn6M&w=200&h=200&q=plotly%20badge&ved=2ahUKEwifiODc0sz-AhVXG7kGHdVHAEYQMygHegUIARC7AQ)&nbsp;
 
 <!-- Contador de visitantes -->
 <div align="center">
