@@ -41,6 +41,8 @@ Sou técnico em Desenvolvimento de Sistemas, e estou me graduando em análise e 
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
+## Estudando
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)&nbsp;
 
 <!-- Contador de visitantes -->
 <div align="center">
