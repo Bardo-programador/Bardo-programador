@@ -3,7 +3,7 @@
 # Olá! 👋 Sou Samuel Roberto.
 
 - Nasci em 2005 e amo estudar tecnologia
-- Atualmente estou estudando a área de análise de dados
+- Atualmente estou estudando a área de análise de dados e cursando Ciência da Computação
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bardo-programador&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=Samuel Roberto de Carvalho Bezerra github stats" /> 
