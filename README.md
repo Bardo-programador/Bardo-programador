@@ -4,14 +4,6 @@
 
 - Nasci em 2005 e amo estudar tecnologia
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bardo-programador&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=Samuel Roberto de Carvalho Bezerra github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bardo-programador&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bardo-programador&theme=gotham)
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bardo-programador&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
