@@ -36,7 +36,7 @@
 ![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)&nbsp;
 
 ## Estudando
-
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!-- Contador de visitantes -->
 <div align="center">
