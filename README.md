@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-# Olá! 👋 Sou Samuel Roberto.
+# Hello! 👋 I'm Samuel Roberto.
 
-- Nasci em 2005 e amo estudar tecnologia
+- I was born in 2005, and I love to study technology
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bardo-programador&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -14,18 +14,18 @@
 <a href="https://steamcommunity.com/id/Samuel_Roberto" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"</a>
 </div>
 
-## Principais Conhecimentos
+## Main Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 
-## Ferramentas
+## Tools
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
-## Outros Conhecimentos 
+## Others Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -35,7 +35,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)&nbsp;
 
-## Estudando
+## Studying
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!-- Contador de visitantes -->
