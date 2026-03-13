@@ -2,7 +2,8 @@
 
 # Hello! 👋 I'm Samuel Roberto.
 
-Computer Science student with hands-on experience in web scraping, backend development, and containerized applications. Built and maintained data extraction systems in production environments.
+Computer Science student with hands-on experience in web scraping, backend development, and containerized applications. 
+
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
